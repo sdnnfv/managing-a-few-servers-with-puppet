@@ -1,0 +1,6 @@
+.tmp/
+modules/
+.vagrant/
+.librarian/
+.ruby-version
+.ruby-gemset

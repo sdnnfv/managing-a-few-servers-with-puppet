@@ -1,0 +1,24 @@
+FORGE
+  remote: http://forge.puppetlabs.com
+  specs:
+    attachmentgenie/ufw (1.4.8)
+      puppetlabs/stdlib (>= 2.2.1)
+    puppetlabs/apt (1.5.0)
+      puppetlabs/stdlib (>= 2.2.1)
+    puppetlabs/stdlib (4.2.2)
+    saz/ssh (2.3.6)
+      puppetlabs/stdlib (>= 2.2.1)
+    thias/postfix (0.3.3)
+
+PATH
+  remote: ./custom-modules/my-awesome_module
+  specs:
+    my/awesome_module (0.0.1)
+
+DEPENDENCIES
+  attachmentgenie/ufw (>= 0)
+  my/awesome_module (>= 0)
+  puppetlabs/apt (>= 0)
+  saz/ssh (>= 0)
+  thias/postfix (>= 0)
+
