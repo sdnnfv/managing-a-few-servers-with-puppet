@@ -4,7 +4,7 @@ Check out my blog post about this: http://crafted.ch/blog/managing-a-few-servers
 
 This lets you easily manage a few servers with Puppet centrally from your computer.
 
-This is uses the [supply_drop][supply-drop] Gem, so credits to them!
+It uses the [supply_drop][supply-drop] Gem, so credits to them!
 
 
 ## Prerequisites
