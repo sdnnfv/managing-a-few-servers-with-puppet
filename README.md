@@ -42,7 +42,7 @@ It uses the [supply_drop][supply-drop] Gem, so credits to them!
 
 - Put your server configurations into `nodes/`. The naming scheme is `<SSH user>@<hostname>.pp`
 - Put your own Puppet modules into `custom-modules`
-- This uses `librarian-puppet`, put your dependencies into the `Puppetfile`.
+- This uses `librarian-puppet`, put your dependencies into the `Puppetfile`
 - Libraries from the Puppetfile are automatically installed when you run `cap <server> puppet:apply`
 - You can use the example config in `nodes/admin@example.org.pp` as a starting point
 
