@@ -35,7 +35,7 @@ It uses the [supply_drop][supply-drop] Gem, so credits to them!
 
   ```bash
   # Shows what would change, but doesn't do anything
-  cap example.org puppet:apply
+  cap example.org puppet:noop
   ```
 
 ## How To
