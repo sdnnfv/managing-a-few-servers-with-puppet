@@ -105,4 +105,4 @@ Done!
 
 ## Questions & Feedback
 
-If you have any questions, feedback or know a better solution, open an issue in this repository.
+If you have any questions, feedback or know a better solution, open an issue in this repository. Thanks!
